@@ -1,0 +1,148 @@
+/* NAVBAR */
+.navbar-first {
+  font-weight: bold;
+  font-size: 23px;
+  color: white;
+  text-decoration: none;
+}
+nav {
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+}
+.navbar-first p {
+  font-size: 15px;
+}
+.navbar-first {
+  color: black;
+}
+.navbar-first span {
+  color: #5e83f1;
+}
+.navbar-first p {
+  color: grey;
+  text-transform: uppercase;
+}
+.nav-item {
+  font-size: 18px;
+  padding-right: 20px;
+}
+.nav-link {
+  color: black!important;
+}
+@media (max-width: 768px) {
+  .navbar-first-ex {
+    background: #052c43 !important;
+    padding: 1em 0;
+    position: relative;
+    top: 0;
+  }
+  #navbarmenu .nav-link {
+    color: white!important;
+  }
+  .navbar-first-ex a {
+    color: white;
+  }
+}
+/* KARUSEL */
+.carousel-item {
+  opacity: 0.8;
+  color: #052c43;
+}
+.carousel-caption {
+  position: absolute;
+  top: 340px;
+}
+.carousel-caption h1 {
+  font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.carousel-caption p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+  color: white;
+}
+.carousel-caption button {
+  color: #5e83f1;
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  padding: 10px 25px;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
+.carousel-caption i {
+  margin-left: 10px;
+}
+/* END */
+.text-about span {
+  color: grey;
+  margin: 20px 0px;
+  font-size: 20px;
+}
+.text-about p {
+  color: grey;
+  margin: 20px 0px;
+  font-size: 20px;
+}
+.text-about h1 {
+  margin: 20px 0px;
+}
+.text-about button {
+  color: white;
+  background-color: #5e83f1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  padding: 10px 25px;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
+.service {
+  padding: 30px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 10px;
+}
+.service-2 {
+  background-color: #5e83f1;
+}
+.service-2 p {
+  color: white;
+}
+.service-2 h3 {
+  color: white;
+}
+.service-1:hover {
+  background-color: #5e83f1;
+  color: white;
+  cursor: pointer;
+}
+.service-1 p:hover {
+  color: white !important;
+}
+
+.service-2 i {
+  color: white;
+  background-color: #aebeea;
+}
+.service-1 {
+  background-color: white;
+}
+.service-1 i {
+  color: #5e83f1;
+  background-color: #aebeea;
+}
+.service h3 {
+  font-size: 27px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.service i {
+  padding: 20px;
+  border-radius: 50px;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+.service p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
